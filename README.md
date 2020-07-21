@@ -19,12 +19,12 @@
 const J47D = {
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Java, MySQL],
-  tools: [React, Bootstrap 4, UX, UI]
+  tools: [React, Bootstrap 4, UX, UI, Adobe Illustrator]
 }
 ```
 ## About me 
 
-:heart: Desing | :black_heart: Photographer and Edition | :blue_heart: UX/UI
+:heart: Desing | :black_heart: Photography and Edition | :blue_heart: UX/UI
 
 - :earth_americas: I'm from Argentina
 - :video_game: I like to play video games
