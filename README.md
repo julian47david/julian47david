@@ -30,7 +30,7 @@ let J47D = {
 
 - :earth_americas: I'm from Argentina
 - :video_game: I like to play video games
-- :gem: I love to customize everything!
+- :gem: I love to customize everything and my level is Genin (下忍)
 
 
 ## Social media :mailbox_with_no_mail:
