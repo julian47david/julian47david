@@ -17,10 +17,10 @@
 
 ```javascript
 let J47D = {
-  quote: "Everything is in the mind..."
+  quote: "Everything is in the mind...",
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Java, MySQL],
-  tools: [React, Bootstrap 4, UX, UI, Adobe Illustrator],
+  tools: [React, Bootstrap 4, UX, UI, Adobe Illustrator]
   
 }
 ```
