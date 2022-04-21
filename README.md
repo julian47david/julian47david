@@ -19,8 +19,8 @@
 let J47D = {
   quote: "Everything is in the mind...",
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, Java, MySQL],
-  tools: [React, Bootstrap 4, UX, UI, Adobe Illustrator]
+  skills: [HTML, CSS, Javascript, React, Vue, Bootstrap 4],
+  tools: [VSC, GitHub, UX, UI, Adobe Illustrator]
   
 }
 ```
