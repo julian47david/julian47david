@@ -1,5 +1,5 @@
 
-<h2> Hello Word! I'm Julian! :fox_face:</h2>
+<h2> Hello World! I'm Julian! :fox_face:</h2>
 
 <h4>Frontend Developer</h4>
 
